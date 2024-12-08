@@ -13,7 +13,7 @@ Lord of the Gaps is a comprehensive tool to search and analyze academic research
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/PhoenixAlpha23/Research-Gap.git
+git clone https://github.com/PhoenixAlpha23/Research-Gap/tree/main
 cd research-paper-finder
 ```
 
