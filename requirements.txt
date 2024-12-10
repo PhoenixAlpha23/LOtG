@@ -1,0 +1,6 @@
+requests==2.31.0
+sentence-transformers==2.2.2
+scikit-learn==1.2.2
+gensim==4.3.1
+matplotlib==3.7.2
+nltk==3.8.1
