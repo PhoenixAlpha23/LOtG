@@ -14,7 +14,6 @@ Lord of the Gaps is a comprehensive tool to search and analyze academic research
 1. Clone the repository:
 ```bash
 git clone https://github.com/PhoenixAlpha23/LOtG
-cd research-paper-finder
 ```
 
 2. Create a virtual environment:
