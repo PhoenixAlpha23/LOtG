@@ -27,13 +27,6 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 
-## Usage
-
-### Run Streamlit App
-```bash
-streamlit run main.py
-```
-
 ## Configuration
 - No API keys required for arXiv and Semantic Scholar
 - IEEE Xplore API key can be added later in configuration
