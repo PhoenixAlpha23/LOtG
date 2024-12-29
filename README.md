@@ -4,7 +4,7 @@
 Lord of the Gaps is a comprehensive tool to search and analyze academic research papers across multiple databases.
 
 ## Features
-- Search papers from multiple sources (arXiv, Semantic Scholar)
+- Search papers from arxiv.
 - Citation analysis
 - Research gap identification
 - Interactive Streamlit web interface
