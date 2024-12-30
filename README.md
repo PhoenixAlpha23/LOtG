@@ -16,20 +16,15 @@ Lord of the Gaps is a comprehensive tool to search and analyze academic research
 git clone https://github.com/PhoenixAlpha23/LOtG
 ```
 
-2. Create a virtual environment:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-```
-
-3. Install dependencies:
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
 ## Configuration
-- No API keys required for arXiv and Semantic Scholar
-- IEEE Xplore API key can be added later in configuration
+- No API keys required for arXiv , since it uses the 'arxiv' library.
+
+- Planning on adding IEEE Xplore API later.
 
 ## Contributing
 1. Fork the repository
