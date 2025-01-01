@@ -7,7 +7,6 @@ Lord of the Gaps is a comprehensive tool to search and analyze academic research
 - Search papers from arxiv.
 - Citation analysis
 - Research gap identification
-- Interactive Streamlit web interface
 
 ## Installation
 
