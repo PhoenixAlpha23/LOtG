@@ -8,12 +8,12 @@ Lord of the Gaps is a comprehensive tool to search and analyze academic research
 - Make this into a comprehensive tool for academics.
 How?
 
-'''
+```
 1.Create a resource Agent which accumulates the papers.
 
 2.Create a analyzer to cross refer topics used within a domain.
 
-'''
+```
 ## Features
 - Search papers from arxiv.
 - Citation analysis
