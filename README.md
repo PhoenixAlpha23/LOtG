@@ -7,6 +7,7 @@ Lord of the Gaps is a comprehensive tool to search and analyze academic research
 - Reinvent it with AI Agents
 - Make this into a comprehensive tool for academics.
 How?
+
 '''
 1.Create a resource Agent which accumulates the papers.
 
