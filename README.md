@@ -31,6 +31,10 @@ git clone https://github.com/PhoenixAlpha23/LOtG
 pip install -r requirements.txt
 ```
 
+## Python Notebook
+The python notebook is from Colab.
+One can copy this notebook and edit it as they wish.
+
 ## Configuration
 - No API keys required for arXiv , since it uses the 'arxiv' library.
 
