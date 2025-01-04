@@ -1,5 +1,10 @@
 # Lord Of the Gaps 🔬📚
 
+## Contribution
+Opinion can also be a important contribution if it is constructive.
+
+If you Have any suggestions please connect.
+
 ## Overview
 Lord of the Gaps is a comprehensive tool to search and analyze academic research papers across multiple databases.
 
@@ -39,10 +44,3 @@ One can copy this notebook and edit it as they wish.
 - No API keys required for arXiv , since it uses the 'arxiv' library.
 
 - Planning on adding IEEE Xplore API later.
-
-## Contributing
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a new Pull Request
